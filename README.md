@@ -5,7 +5,6 @@ Image-Enchantment-ESPCN adalah proyek yang bertujuan untuk meningkatkan kualitas
 ## Fitur
 
 - **Peningkatan Kualitas Gambar**: Menggunakan algoritma ESPCN untuk meningkatkan resolusi gambar.
-- **Mudah Digunakan**: Antarmuka yang sederhana untuk memproses gambar dengan cepat.
 - **Dukungan Berbagai Format**: Mendukung berbagai format gambar seperti JPEG, PNG, dan lainnya.
 - **Kinerja Tinggi**: Memanfaatkan teknik pembelajaran mendalam untuk hasil yang lebih baik.
 
